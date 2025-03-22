@@ -1,6 +1,6 @@
 package homeWork;
 
-public class hw1Q1 {
+public class hw1AQ1 {
 
 	
 	public static void bike(int x) {
